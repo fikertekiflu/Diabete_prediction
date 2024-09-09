@@ -1,0 +1,10 @@
+# Ignore all files in the project directory except for necessary ones
+*.pyc
+*.pyo
+__pycache__/
+*.git
+*.DS_Store
+node_modules/
+*.log
+*.tmp
+*.md
